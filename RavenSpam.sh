@@ -4,7 +4,7 @@ sleep 1
 echo "\033[34;1m[+]\033[32;1m═══════════════════════════════\033[34;1m[+]"
 echo "\033[32;1mAuthor: ⇝͜͡✪D°S°T~ᴹ̷ʳ̷ᴿ̷ᵃ̷ᵛ̷ᵉ̷ⁿ✪࿐"
 echo "\033[37;1mFeat: Go Hack DST Officials"
-echo "\033[35;1mUnknown?:Orang TerTanfanXD"
+echo "\033[35;1mUnknown?:Orang TerTamfanXD"
 echo "\033[35;1mTeam : Dark Side Team"
 echo "\033[33;1mKontak Me :  081339633530"
 echo "\033[92mMrRaven CYBER Army"
