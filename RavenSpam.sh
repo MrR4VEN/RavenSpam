@@ -1,5 +1,5 @@
 clear
-toilet -f bigmono9 -F gay SDV SPAM
+toilet -f bigmono9 -F gay RavenSpam
 sleep 1
 echo "\033[34;1m[+]\033[32;1m═══════════════════════════════\033[34;1m[+]"
 echo "\033[32;1mAuthor: ⇝͜͡✪D°S°T~ᴹ̷ʳ̷ᴿ̷ᵃ̷ᵛ̷ᵉ̷ⁿ✪࿐"
